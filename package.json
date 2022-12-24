@@ -1,0 +1,15 @@
+{
+    "name": "oin-liquidator",
+    "version": "1.0.0",
+    "description": "Aaaa I'm liquidating",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "dotenv": "^16.0.0",
+      "js-sha256": "^0.9.0",
+      "near-api-js": "^0.44.2"
+    }
+  }
+  
